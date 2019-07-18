@@ -84,7 +84,7 @@ void Picture::Draw()
 			std::cout << ch;
 		}
 		SetConsoleCursorPosition(hwnd, { 0,0 });
-		Sleep(200);
+		Sleep(100);
 	}
 }
 
